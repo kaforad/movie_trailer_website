@@ -31,7 +31,7 @@ to your local computer system
 4. Click on any of the movie's image poster, to view the movie trailer.
 
 #### An Alternative method to run or view the webiste
-1.	Rename the file entertainment_center.py to the  entertainment_center.pyw
+1.	Rename the file entertainment_center.py to the  entertainment_center.pyw (i.e. change the file extension to pyw)
 2. Double click entertainment_center.pyw to open the website or Right Click entertainment_center.pyw to open with IDLE. Click Run to view the website
 3.	The Favourite movie website will be open	
 4.	Click on any of the movie's image poster to view it trailer
@@ -46,5 +46,3 @@ IMAGES-  Movie Poster image
 Wikipedia 
 Google
 IMDB 
-
-
